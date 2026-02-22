@@ -8,5 +8,6 @@ Save the `v.vim` file in the following path:
 Add the following line to your `.vimrc` file:
 
 `autocmd BufRead,BufNewFile *.v set filetype=v‍‍`
-![before](images/before.png)
-![after](images/after.png)
+
+![before](before.png)
+![after](after.png)
