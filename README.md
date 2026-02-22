@@ -9,5 +9,7 @@ Add the following line to your `.vimrc` file:
 
 `autocmd BufRead,BufNewFile *.v set filetype=v‍‍`
 
-![before](before.png)
-![after](after.png)
+<div style="display: flex; gap: 10px;">
+  <img src="before.png" alt="before" width="300" style="max-width: 100%;">
+  <img src="after.png" alt="after" width="300" style="max-width: 100%;">
+</div>
