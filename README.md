@@ -10,7 +10,7 @@ Save the `v.vim` file in the following path:
 Add the following line to your `.vimrc` file:
 
 ```text
-autocmd BufRead,BufNewFile *.v set filetype=
+autocmd BufRead,BufNewFile *.v set filetype=v
 ```
 
 <div style="display: flex; gap: 10px;">
